@@ -5,4 +5,4 @@ theme:
     name: readthedocs
 nav:
     - ' Manuale - FM':
-        - 'Manuale': './guida_FAB-Manager.md'
+        - 'Manuale': './index.md'
