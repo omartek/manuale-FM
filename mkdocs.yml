@@ -5,14 +5,15 @@ theme:
     name: readthedocs
     highlightjs: true
 nav:
-    - 'Changelogs': './index.md'
-    - 'Introduzione': './1-introduction.md'
-    - 'Interfaccia utente': './2-user interface.md'
-    - 'Fab-manager per gli amministratori': './3-fab-manager_admin.md'
-    - 'Fablab per il team': './4-fablab-interface.md'
-    - 'Contabilità': './5-billing.md'
-    - 'Gestione delle notifiche': './6-notification.md'
-    - 'Impostazione e avvio': './7-settings-fabmanager.md'
+    - 'GUIDA ALL USO DELLA SOLUZIONE FAB-MANAGER':
+        - 'Changelogs': './index.md'
+        - 'Introduzione': './1-introduction.md'
+        - 'Interfaccia utente': './2-user interface.md'
+        - 'Fab-manager per gli amministratori': './3-fab-manager_admin.md'
+        - 'Fablab per il team': './4-fablab-interface.md'
+        - 'Contabilità': './5-billing.md'
+        - 'Gestione delle notifiche': './6-notification.md'
+        - 'Impostazione e avvio': './7-settings-fabmanager.md'
 plugins:
 - search
 - mkdocstrings:

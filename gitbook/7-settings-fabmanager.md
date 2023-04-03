@@ -1,4 +1,4 @@
-## Impostazione e implementazione di Fab-manager
+## Impostazione e avvio di Fab-manager
 
 Questo capitolo è destinato principalmente ai team responsabili dell'implementazione di Fab-manager all'interno della loro struttura. Illustra i diversi input e le regole da impostare per garantire la corretta implementazione di Fab-manager.
 

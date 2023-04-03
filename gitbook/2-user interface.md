@@ -15,7 +15,7 @@ Tutte le altre funzioni sono accessibili, almeno in modalità di sola lettura, s
 
 La creazione di un account avviene tramite la funzione "Registrati". Facendo clic su di essa, l'utente accede alla seguente interfaccia, eventualmente arricchita da un captcha per la protezione dai robot:
 
-![](./images/images/1.jpg)
+![](./images/1.jpg)
 *Figura 1 - Modulo per la creazione di un account pubblico*
 
 È in questa schermata che l'utente definisce il proprio gruppo, ad esempio:

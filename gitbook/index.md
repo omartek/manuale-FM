@@ -1,6 +1,5 @@
 # GUIDA ALL'USO DELLA SOLUZIONE FAB-MANAGER
 
-
 Changelogs:
 
 *V.1.0 - Luglio 2014 Pascal Moutet Versione iniziale
