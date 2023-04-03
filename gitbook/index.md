@@ -213,7 +213,8 @@ Naturalmente, al momento della sottoscrizione dell'abbonamento, i clienti ricevo
 
 Dalla scheda **"iscrizioni alla formazione"**, l'utente può iscriversi ai corsi di formazione online da un calendario che elenca i corsi disponibili nelle prossime settimane.
 
-*F*igura 7 - Vista del calendario di allenamento. L'utente seleziona uno slot. A seconda del livello di abbonamento, il costo del corso varia. In questo caso, il corso selezionato è gratuito, in quanto incluso nell'abbonamento (costo = 0€). Se il costo è superiore a 0€, l'utente paga la transazione online.*
+![](./7.jpg)
+*Figura 7 - Vista del calendario di allenamento. L'utente seleziona uno slot. A seconda del livello di abbonamento, il costo del corso varia. In questo caso, il corso selezionato è gratuito, in quanto incluso nell'abbonamento (costo = 0€). Se il costo è superiore a 0€, l'utente paga la transazione online.*
 
 **Nota:** in alcuni Fab Lab, è indispensabile che un utente segua una formazione su una macchina e che un membro del team del Fab Lab la convalidi prima di poter prenotare le macchine.
 Un altro Fab Lab può impostare la regola che la formazione non è necessaria per prenotare una macchina. (Vista amministratore "Formazione" - Semplicemente non associare le macchine a un corso di formazione).
@@ -479,6 +480,7 @@ A tal fine, seleziona uno slot contrassegnato come "non disponibile" e appare la
 
 Il manager sceglie "Voglio cambiare la data" e seleziona un'altra data dal calendario:
 
+![](./34.jpg)
 *Figura 34 - Scelta di una nuova data per spostare la prenotazione*
 
 Deve ancora convalidare la modifica:
@@ -732,7 +734,7 @@ La nota di credito viene quindi generata in formato PDF e accessibile dalla vist
 
 **Nota:** se la nota di credito riguarda un abbonamento attivo, il sistema chiede al gestore se desidera sospendere l'abbonamento o lasciarlo attivo:
 
-![](./  61jpg)
+![](./61jpg)
 *Figura 61 - Finestra di dialogo per la generazione di note di credito con abbonamento attivo*
 
 #### Dettagli di una nota di credito - formato PDF
@@ -768,7 +770,7 @@ Il modulo consente di definire una serie di filtri su ciascuna di queste voci pe
 Ad esempio, per gli abbonamenti, è possibile distinguere tra le durate o isolare una categoria di età.
 L'amministratore può anche definire un intervallo di date per visualizzare i dati di un determinato periodo.
 
-![](./65.jpg)
+![](./64.jpg)
 *Figura 64 - Visualizzazione degli abbonamenti mensili sottoscritti a gennaio 2015.*
 
 L'opzione "filtro personalizzato" consente di filtrare i dati in base a criteri più complessi. È necessario cliccare sul pulsante "Convalida" per tenere conto dei criteri del filtro personalizzato.
@@ -1337,7 +1339,7 @@ La scheda generale consente inoltre di definire i documenti legali (PDF) che si 
 È quindi possibile personalizzare graficamente la piattaforma. In questo modo, un amministratore può definire un logo, una favicon, nonché la scelta di un colore principale e di un colore secondario. Questa scelta viene effettuata da una tavolozza.
 
 ![](./102.jpg)
-Figura 102 - Tema
+*Figura 102 - Tema*
 
 **Nota:** i codici colore definiti vengono utilizzati nelle notifiche e-mail inviate agli utenti e agli amministratori, nonché in Excel.
 
