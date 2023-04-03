@@ -5,11 +5,11 @@ theme:
     name: readthedocs
     highlightjs: true
 nav:
-    - 'GUIDA ALL USO DELLA SOLUZIONE FAB-MANAGER':
+    - 'GUIDA ALLA SOLUZIONE FAB-MANAGER':
         - 'Changelogs': './index.md'
         - 'Introduzione': './1-introduction.md'
-        - 'Interfaccia utente': './2-user interface.md'
-        - 'Fab-manager per gli amministratori': './3-fab-manager_admin.md'
+        - 'Interfaccia utente': './2-user-interface.md'
+        - 'Fab-manager per gli amministratori': './3-fab-manager-admin.md'
         - 'Fablab per il team': './4-fablab-interface.md'
         - 'Contabilità': './5-billing.md'
         - 'Gestione delle notifiche': './6-notification.md'

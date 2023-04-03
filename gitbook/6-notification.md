@@ -16,7 +16,7 @@ Le notifiche riguardano i due ruoli della piattaforma:
 * Gli utenti
 * Gli amministratori
 
-#### Riepilogo delle notifiche degli utenti :
+#### Riepilogo delle notifiche degli utenti
 
 * Dopo la creazione di un account: promemoria del login e della password
 * A seguito della creazione di un account: richiesta di convalida dell'indirizzo e-mail
