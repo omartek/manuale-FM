@@ -1,8 +1,8 @@
-site_name: FM
+site_name: Fab Manager
 site_url: https://github.com/omartek/manuale-FM
 docs_dir: gitbook/
 theme:
     name: readthedocs
 nav:
-    - ' Manuale - FM':
+    - 'Fab Manager ':
         - 'Manuale': './index.md'
