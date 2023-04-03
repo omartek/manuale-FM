@@ -8,4 +8,4 @@ theme:
         - yaml
 nav:
     - ' Manuale - FM':
-        - 'Manuale': './guida_FAB-Manager.md.md'
+        - 'Manuale': './guida_FAB-Manager.md'
