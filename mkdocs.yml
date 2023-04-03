@@ -1,6 +1,6 @@
 site_name: Fab Manager
 site_url: https://github.com/omartek/manuale-FM
-docs_dir: docs/
+docs_dir: gitbook/
 theme:
     name: readthedocs
     highlightjs: true
