@@ -9,14 +9,14 @@ Tutti questi dati possono essere configurati tramite la vista "Abbonamenti e tar
 
 Questa vista può contenere fino a 6 schede:
 
-![](./74.jpg)
+![](./images/74.jpg)
 *Figura 74 - Schede di gestione dei prezzi*
 
 #### Abbonamenti
 
 Questa scheda consente di creare / modificare / eliminare le formule di abbonamento in vigore in un Fab Lab.
 
-![](./75.jpg)
+![](./images/75.jpg)
 *Figura 75 - Modulo di creazione dell'abbonamento*
 
 **Il tipo di abbonamento** può assumere 2 valori:
@@ -27,7 +27,7 @@ Questa scheda consente di creare / modificare / eliminare le formule di abboname
 
 **Gruppo:** consente di assegnare un abbonamento a una particolare popolazione:
 
-![](./76.jpg)
+![](./images/76.jpg)
 *Figura 76 - Selezione di un gruppo. L'opzione "trasversale" crea tante formule quanti sono i gruppi, ognuno dei quali può essere configurato in modo indipendente.*
 
 **Categoria:** le categorie sono utilizzate per organizzare la visualizzazione delle iscrizioni nella pagina pubblica presentando le diverse formule ai membri e ai visitatori. L'uso delle categorie non è obbligatorio. Per configurarli, fare clic sul pulsante in alto a destra della pagina "Gestione dei prezzi".
@@ -52,19 +52,19 @@ Dopo la registrazione, è possibile modificare le tariffe che verranno applicate
 
 Queste tariffe possono essere modificate anche in seguito, cliccando sul pulsante nell'elenco dei pacchetti di abbonamento.
 
-![](./77.jpg)
+![](./images/77.jpg)
 *Figura 77 - Modifica delle tariffe di un pacchetto di abbonamento. È possibile riutilizzare i prezzi già definiti in un'altra formula utilizzando l'elenco a discesa "Copia prezzi da". Attenzione: questa operazione sovrascrive i prezzi attualmente definiti nel modulo.*
 
 #### Formazione
 
-![](./78.jpg)
+![](./images/78.jpg)
 *Figura 78 - Output delle tariffe dei corsi*
 
 Questa scheda consente di assegnare le tariffe di formazione in base ai gruppi di utenti (standard, studente, artigiano...). Questi valori possono essere modificati in qualsiasi momento.
 
 #### Ore macchina
 
-![](./79.jpg)
+![](./images/79.jpg)
 *Figura 79 - Output della tariffazione delle ore macchina senza abbonamento*
 Quando viene creata una macchina, tutte le tariffe sono impostate a zero. Esse corrispondono alle tariffe che si applicano ai diversi gruppi di utenti (standard, studenti, artigiani...) che non hanno un abbonamento.
 
@@ -89,7 +89,7 @@ In **Personalizzazione > Prenotazioni > Impostazioni di prenotazione** è possib
 
 Questa scheda è disponibile solo se il modulo "spazi" è abilitato nel Fab-manager.
 
-![](./80.jpg)
+![](./images/80.jpg)
 *Figura 80 - Modifica della tariffazione degli spazi senza abbonamento*
 
 Quando viene creato uno spazio, tutte le tariffe sono impostate a zero. Corrispondono alle tariffe che si applicano ai diversi gruppi di utenti (standard, studenti, artigiani...) che non hanno un abbonamento.
@@ -107,7 +107,7 @@ In **Personalizzazione > Prenotazioni > Impostazioni di prenotazione**, è prese
 Fab Manager consente di definire "crediti", ossia elementi (ore macchina, ore spazio, formazione) che vengono integrati in un abbonamento.
 Ad esempio, presso il Casemate Fab Lab, un utente, indipendentemente dal gruppo di appartenenza, che sottoscrive un abbonamento annuale beneficia di 5 sessioni di formazione gratuite e di 10 ore di stampa 3D gratuite, come indicato di seguito.
 
-![](./81.jpg)
+![](./images/81.jpg)
 *Figura 81 - Impostazione dei crediti*
 
 È possibile cancellare / modificare / aggiungere tutti i valori in questa vista.
@@ -127,27 +127,27 @@ Il pulsante (aeroplanino) invia una notifica (nel centro notifiche e via e-mail)
 
 La vista amministratore "Utenti" è suddivisa in 4 schede, la prima delle quali ("Utenti") è a sua volta suddivisa in 4 schede:
 
-![](./82.jpg)
+![](./images/82.jpg)
 *Figura 82 - Schede di gestione degli utenti*
 
 #### Membri
 
 Permette di creare/modificare gli utenti di Fab Lab. È possibile esportare i dati di questa visualizzazione in Excel: l'elenco dei membri, le sottoscrizioni e l'elenco delle prenotazioni.
 
-![](./83.jpg)
+![](./images/83.jpg)
 *Figura 83 - Elenco dei membri, ordinati per Nome*
 
 ##### Credito del portafoglio virtuale
 
 Cliccando l'icona per l'edit, è possibile accreditare il portafoglio di un utente.
 
-![](./84.jpg)
+![](./images/84.jpg)
 *Figura 84 - Accredito di un portafoglio virtuale*
 
 L'accredito di un portafoglio consente all'utente di destinare una certa somma di denaro da spendere sulla piattaforma come meglio crede. Al momento dell'accredito, è possibile richiedere la generazione di una fattura che verrà inviata all'utente.
 **Nota:** l'utente non può accreditare da solo il proprio portafoglio online, solo un amministratore o un manager possono farlo. Spetta quindi all'amministratore o al gestore recuperare i fondi, se necessario.
 
-![](./85.jpg)
+![](./images/85.jpg)
 *Figura 85 - Riassunto delle borse*
 
 Una volta accreditato il portafoglio, la riga corrispondente alla transazione si trova nella scheda del portafoglio dell'utente.
@@ -156,7 +156,7 @@ Una volta accreditato il portafoglio, la riga corrispondente alla transazione si
 
 È possibile eseguire un'importazione raggruppata di utenti utilizzando un file CSV come origine dati. L'interfaccia per questa importazione è accessibile facendo clic sul pulsante di importazione, situato in alto a destra nell'interfaccia di gestione dei membri.
 
-![](./86.jpg)
+![](./images/86.jpg)
 *Figura 86 - Pulsante di accesso all'interfaccia di importazione CSV*
 
 Questa interfaccia fornisce gli elementi importanti per la creazione del file CSV di origine.
@@ -178,7 +178,7 @@ L'amministratore di sistema potrà accedere ai registri tecnici dell'applicazion
 
 Consente di creare o rimuovere amministratori dal Fab-manager.
 
-![](./87.jpg)
+![](./images/87.jpg)
 *Figura 87 - Elenco degli amministratori*
 
 **Nota:** l'amministratore attualmente connesso non può eliminare il proprio account, quindi c'è sempre almeno un amministratore sulla piattaforma.
@@ -192,7 +192,7 @@ Tuttavia, potrà effettuare prenotazioni per tutti i membri e per tutti i gestor
 
 Se il vostro Fab Lab è gestito da volontari, può valere la pena di nominarli come editor per consentire loro di prendere le prenotazioni per gli altri membri, pur potendo prenotare anche per conto proprio.
 
-![](./88.jpg)
+![](./images/88.jpg)
 *Figura 88 - Elenco dei gestori*
 
 #### Partner
@@ -201,14 +201,14 @@ I partner sono associati a pacchetti di abbonamento con lo stesso nome `(vedere 
 
 È possibile gestire questi utenti speciali da questa schermata.
 
-![](./89.jpg)
+![](./images/89.jpg)
 *Figura 89 - Gestione dei partner*
 
 #### Gruppi
 
 Permette di definire categorie (gruppi) di utenti. Sarà quindi possibile creare formule di abbonamento e definire tariffe (ore macchina, formazione) applicabili a tutti o solo ad alcuni dei gruppi.
 
-![](./90.jpg)
+![](./images/90.jpg)
 *Figura 90 - Elenco dei gruppi*
 
 I gruppi sono modificabili/eliminabili, ad eccezione del gruppo "Amministratori" che è interno al sistema e non compare in nessun altro punto della piattaforma.
@@ -220,17 +220,17 @@ I gruppi sono modificabili/eliminabili, ad eccezione del gruppo "Amministratori"
 
 Questa funzione consente di gestire i tag che possono essere assegnati a un utente.
 
-![](./91.jpg)
+![](./images/91.jpg)
 *Figura 91 - Elenco delle etichette*
 
 In qualità di amministratore o manager, posso quindi indicare nella scheda del profilo di un utente che è un "esperto":
 
-![](./92.jpg)
+![](./images/92.jpg)
 *Figura 92 - Assegnazione dell'etichetta "Esperti" a un membro*
 
 L'utilità di questa funzione risiede nel fatto che è poi possibile creare, nell'agenda slot che saranno riservati solo agli esperti, ad esempio.
 
-![](./93.jpg)
+![](./images/93.jpg)
 *Figura 93 - Creazione di uno slot per esperti*
 
 Gli utenti che non hanno questa etichetta non potranno effettuare una prenotazione in uno slot riservato ai soli "esperti".
@@ -264,17 +264,17 @@ Se la convalida dell'account è abilitata, una volta verificate le credenziali, 
 
 Se la funzione di convalida dell'account non è attivata, il mancato invio dei documenti richiesti o l'invio di documenti non validi non pregiudica le possibilità di accesso dell'utente al sistema, tuttavia l'amministratore potrà decidere di cancellare l'account o di prendere provvedimenti nei confronti dell'utente.
 
-![](./94.jpg)
+![](./images/94.jpg)
 *Figura 94 - Pannello di gestione delle richieste di credenziali*
 
-![](./95.jpg)
+![](./images/95.jpg)
 *Figura 95 - Quando un nuovo membro viene iscritto a un gruppo che richiede le credenziali, il membro viene avvisato*
 
 ### Gestione della macchina
 
 È possibile modificare la descrizione di ogni macchina, eliminare o aggiungere nuove macchine tramite il menu "Gestione macchine".  Ogni macchina creata diventa potenzialmente disponibile per la prenotazione tramite l'agenda del Fab Lab.
 
-![](./96.jpg)
+![](./images/96.jpg)
 *Figura 96 - Creazione di una nuova macchina*
 
 Come indicato nella vista, l'amministratore deve assicurarsi che le tariffe di prenotazione della macchina siano inserite nella sezione "Abbonamenti e tariffe".
@@ -292,14 +292,14 @@ Dal menu dell'amministratore "Progetti" è inoltre possibile definire se consent
 
 Un pulsante in alto a destra di questa schermata consente di passare all'interfaccia di gestione delle segnalazioni di abuso.
 
-![](./97.jpg)
+![](./images/97.jpg)
 *Figura 97 - Interfaccia per la gestione degli avvisi sui progetti*
 
 Questa interfaccia consente agli amministratori di rimuovere gli avvisi dal sistema una volta elaborati. Questo in particolare per rispettare il Regolamento generale sulla protezione dei dati (GDPR).
 
 ### Gestione degli eventi
 
-![](./98.jpg)
+![](./images/98.jpg)
 *Figura 98 - Gestione degli eventi*
 
 Dalla scheda "Eventi" dell'amministratore o del gestore, è possibile consultare l'elenco degli eventi esistenti, modificarli e visualizzare i dettagli delle prenotazioni collegate a ciascuno di essi.
@@ -313,7 +313,7 @@ Infine, la scheda dell'amministratore "Gestione delle categorie tariffarie" cons
 
 La vista Personalizzazione consente di modificare i testi informativi che appaiono sulla piattaforma. Questa è suddivisa in 5 schede:
 
-![](./99.jpg)
+![](./images/99.jpg)
 *Figura 99 - Schede della sezione "personalizzazione*
 
 #### Generalità
@@ -328,29 +328,29 @@ Questa scheda consente di personalizzare i messaggi informativi che si desidera 
 
 È anche in questa parte che si dà un titolo al Fab Lab che sarà usato nel titolo della pagina HTML e nella firma delle e-mail di notifica.
 
-![](./100.jpg)
+![](./images/100.jpg)
 *Figura 100 - Messaggi*
 
 La scheda generale consente inoltre di definire i documenti legali (PDF) che si desidera visualizzare sulla piattaforma (Condizioni generali di vendita + Condizioni d'uso).
 
-![](./101.jpg)
+![](./images/101.jpg)
 *Figura 101 - Messaggi*
 
 È quindi possibile personalizzare graficamente la piattaforma. In questo modo, un amministratore può definire un logo, una favicon, nonché la scelta di un colore principale e di un colore secondario. Questa scelta viene effettuata da una tavolozza.
 
-![](./102.jpg)
+![](./images/102.jpg)
 *Figura 102 - Tema*
 
 **Nota:** i codici colore definiti vengono utilizzati nelle notifiche e-mail inviate agli utenti e agli amministratori, nonché in Excel.
 
 L'immagine di sfondo del banner del profilo si trova nella pagina "Il mio profilo":
 
-![](./103.jpg)
+![](./images/103.jpg)
 *Figura 103 - Banner di sfondo della pagina "Il mio profilo*
 
 La scheda "generale" consente inoltre di definire l'ordine di visualizzazione delle macchine nella pagina "riserva una macchina", il modo in cui l'aiuto a bordo viene visualizzato dagli amministratori e dai manager, l'indirizzo a cui inviare le notifiche via e-mail, i parametri di creazione dell'account e i vari moduli opzionali.
 
-![](./104.jpg)
+![](./images/104.jpg)
 *Figura 104 - Impostazioni per la creazione dell'account*
 
 #### Account
@@ -375,7 +375,7 @@ Questo può essere utile, ad esempio, per indicare la chiusura temporanea di un 
 
 Questa scheda consente anche di impostare l'utente collegato al feed di Twitter che si desidera visualizzare nella home page.
 
-![](./105.jpg)
+![](./images/105.jpg)
 *Figura 105 - Personalizzazione della pagina iniziale*
 
 È anche possibile andare oltre, personalizzando completamente la homepage. Un editor visuale interattivopermette di modificare il codice HTML e i diversi moduli da visualizzare sulla home page.
@@ -386,7 +386,7 @@ Queste funzioni sono da riservare agli utenti avanzati che hanno familiarità co
 
 Questa scheda consente di modificare la pagina di presentazione del Fab Lab, accessibile tramite il link "Informazioni" situato nell'intestazione.
 
-![](./106.jpg)
+![](./images/106.jpg)
 *Figura 106 - Personalizzazione della pagina Informazioni*
 
 #### Privacy
@@ -407,7 +407,7 @@ In fondo alla pagina sono presenti anche altre opzioni per la privacy:
 
 Questa scheda consente di definire una serie di regole da impostare per le prenotazioni:
 
-![](./107.jpg)
+![](./images/107.jpg)
 *Figura 107 - Regole di prenotazione*
 
 È possibile :
@@ -418,17 +418,17 @@ Questa scheda consente di definire una serie di regole da impostare per le preno
 * Definire se gli utenti possono prenotare più slot contemporaneamente e di quali tipi.
 * Imposta la durata predefinita degli slot macchina e spazio.
 
-![](./108.jpg)
+![](./images/108.jpg)
 *Figura 108 - Richiamo delle prenotazioni*
 
 Se questa impostazione è attivata, all'utente che ha effettuato una prenotazione verrà inviata un'e-mail di promemoria, 4 ore prima della data prevista per la prenotazione; il ritardo è personalizzabile.
 
-![](./109.jpg)
+![](./images/109.jpg)
 *Figura 109 - Riservatezza delle prenotazioni*
 
 Se è attivata la funzione "mostra nomi", i nomi delle persone che hanno prenotato uno slot della macchina appariranno nel calendario di disponibilità pubblica, come nell'esempio seguente.
 
-![](./110.jpg)
+![](./images/110.jpg)
 *Figura 110 - Calendario con visualizzazione del nome*
 
 È anche possibile configurare la visualizzazione in sola lettura degli eventi (workshop, corsi, ecc.) nell'agenda.
@@ -461,7 +461,7 @@ Una volta decisa la soluzione di pagamento da utilizzare, accedete come amminist
 
 Un pulsante vi permetterà di attivare i pagamenti online. Quando si fa clic su "Registra", si apre una finestra di dialogo che chiede di scegliere un gateway e di fornire i dettagli della sua configurazione.
 
-![](./111.jpg)
+![](./images/111.jpg)
 *Figura 111 - Configurazione del gateway di pagamento.*
 
 Dopo aver convalidato la configurazione, non dimenticate di configurare la valuta da utilizzare per i pagamenti nella schermata successiva.

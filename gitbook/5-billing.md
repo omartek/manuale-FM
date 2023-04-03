@@ -14,7 +14,7 @@ Se i record sono in errore, è necessario ripristinare un backup precedente del 
 
 In alto a destra di questa vista, è presente un pulsante che permette di gestire i periodi contabili e degli archivi.
 
-![](./67.jpg)
+![](./images/67.jpg)
 *Figura 67 - Finestra di gestione dei periodi contabili*
 
 Da questa vista è possibile chiudere un periodo contabile, visualizzare i periodi contabili già chiusi e i loro dettagli (compresi i totali) e scaricare gli archivi dei periodi chiusi.
@@ -42,7 +42,7 @@ L'interfaccia offre anche la possibilità di scaricare un archivio sicuro del pe
 Questo archivio è in formato ZIP. La maggior parte dei sistemi operativi recenti consente di aprire questo file in modo nativo.
 Se il vostro sistema operativo non lo consente, potete utilizzare il software gratuito come 7-Zip (https://www.7-zip.org) per visualizzare il contenuto dell'archivio ed estrarre i dati.
 
-![](./68.jpg)
+![](./images/68.jpg)
 *Figura 68 - Contenuto di un archivio*
 
 L'archivio contiene tre file:
@@ -69,12 +69,12 @@ cat chained.sha256
 Fab-manager consente di personalizzare la forma grafica e i campi di una fattura.
 Questa personalizzazione può essere effettuata dalla vista "Fatture > Impostazioni della fattura"
 
-![](./69.jpg)
+![](./images/69.jpg)
 *Figura 69 - Interfaccia di personalizzazione della fattura*
 
 La personalizzazione grafica consente di modificare il logo associato alla fattura:
 
-![](./70.jpg)
+![](./images/70.jpg)
 *Figura 70 - Passando il mouse sul logo, appare il pulsante per scegliere un altro logo.*
 
 Gli altri campi che possono essere modificati direttamente dall'interfaccia sono :
@@ -103,7 +103,7 @@ L'esportazione deve avvenire in due fasi.
 
 In primo luogo, una persona competente deve impostare i codici contabili e le etichette di conto associate nella scheda "Codici contabili". In seguito, un amministratore può regolarmente i dati contabili accedendo all'interfaccia corrispondente.
 
-![](./71jpg)
+![](./images/71jpg)
 *Figura 71 - Configurazione dei codici contabili per l'esportazione*
 
 L'interfaccia di esportazione è accessibile cliccando sul pulsante in alto a destra della sezione "Gestione fatture".
@@ -114,5 +114,5 @@ La scelta del software di destinazione visualizza un promemoria dei parametri as
 
 A seconda del numero di fatture del periodo selezionato, l'esportazione può richiedere più o meno tempo. Una notifica e un'e-mail saranno inviate al termine dell'esportazione.
 
-![](./72.jpg)
+![](./images/72.jpg)
 *Figura 72 - Esempio di esportazione della contabilità per il software ACD*

@@ -15,7 +15,7 @@ Tutte le altre funzioni sono accessibili, almeno in modalità di sola lettura, s
 
 La creazione di un account avviene tramite la funzione "Registrati". Facendo clic su di essa, l'utente accede alla seguente interfaccia, eventualmente arricchita da un captcha per la protezione dai robot:
 
-![](./1.jpg)
+![](./images/images/1.jpg)
 *Figura 1 - Modulo per la creazione di un account pubblico*
 
 È in questa schermata che l'utente definisce il proprio gruppo, ad esempio:
@@ -30,7 +30,7 @@ La data di nascita è richiesta in quanto ci permette di stabilire statistiche s
 
 **Nota:** Un utente ha la possibilità di cambiare gruppo: una persona in cerca di lavoro può diventare un lavoratore autonomo, uno studente può diventare uno standard, ecc. Questa modifica viene effettuata dalla vista "Le mie impostazioni":
 
-![](./2.jpg)
+![](./images/2.jpg)
 *Figura 2 - Modifica dei gruppi dalle loro impostazioni*
 
 ### Dashboard
@@ -40,7 +40,7 @@ Come di consueto, l'utente è invitato a cliccare su un link per attivare defini
 
 Una volta effettuato l'accesso, l'utente dispone di un cruscotto in cui può trovare le principali informazioni che lo riguardano:
 
-![](./3.jpg)
+![](./images/3.jpg)
 *Figura 3 - Menu utente*
 
 * **Il mio profilo**: visualizza un riepilogo del profilo dell'utente.
@@ -61,7 +61,7 @@ Una volta effettuato l'accesso, l'utente dispone di un cruscotto in cui può tro
 L'utente ha la possibilità di abbonarsi e pagare online con carta di credito.
 Le formule di abbonamento vengono visualizzate in base al gruppo dell'utente collegato:
 
-![](./4.jpg)
+![](./images/4.jpg)
 *Figura 4 - Visualizzazione dell'abbonamento per un utente standard o associativo*
 
 Da questa schermata, l'utente può visualizzare il suo livello di abbonamento, se è già abbonato, o le offerte disponibili, se non lo è.
@@ -76,14 +76,14 @@ In questa schermata può anche cambiare il suo gruppo (studente, lavoratore auto
 
 Alcuni pacchetti di abbonamento possono essere configurati in modo da offrire ai membri l'opzione di pagamento a rate. Questi pacchetti si distinguono dagli altri per la chiara indicazione del prezzo al mese, anziché del prezzo totale dell'abbonamento.
 
-![](./5.jpg)
+![](./images/5.jpg)
 *Figura 5 - Un abbonamento che l'utente può pagare a rate*
 
 Dopo aver selezionato un pacchetto di abbonamento con pagamenti mensili, l'utente può scegliere se pagare in un'unica soluzione o tramite un piano di pagamento mensile. Quest'ultima è l'opzione predefinita.
 
 L'utente ha inoltre la possibilità di visualizzare l'intero piano di pagamento prima di assumere un impegno.
 
-![](./6.jpg)
+![](./images/6.jpg)
 *Figura 6 - Riepilogo, prima di sottoscrivere un abbonamento mensile*
 
 ### Rinnovo degli abbonamenti
@@ -103,7 +103,7 @@ Naturalmente, al momento della sottoscrizione dell'abbonamento, i clienti ricevo
 
 Dalla scheda **"iscrizioni alla formazione"**, l'utente può iscriversi ai corsi di formazione online da un calendario che elenca i corsi disponibili nelle prossime settimane.
 
-![](./7.jpg)
+![](./images/7.jpg)
 *Figura 7 - Vista del calendario di allenamento. L'utente seleziona uno slot. A seconda del livello di abbonamento, il costo del corso varia. In questo caso, il corso selezionato è gratuito, in quanto incluso nell'abbonamento (costo = 0€). Se il costo è superiore a 0€, l'utente paga la transazione online.*
 
 **Nota:** in alcuni Fab Lab, è indispensabile che un utente segua una formazione su una macchina e che un membro del team del Fab Lab la convalidi prima di poter prenotare le macchine.
@@ -113,7 +113,7 @@ Un altro Fab Lab può impostare la regola che la formazione non è necessaria pe
 
 Una volta convalidati i corsi di formazione, l'utente ha la possibilità di riservare le macchine del Fab Lab direttamente da un calendario dedicato che elenca gli slot disponibili per le prossime settimane. Questo calendario viene compilato dal team del Fab Lab `(vedere Gestione del calendario del Fab Lab - modalità admin)`.
 
-![](./8.jpg)
+![](./images/8.jpg)
 *Figura 8 - L'utente effettua una prenotazione per la stampante 3D per uno slot di un'ora. Il sistema calcola il prezzo dell'ora di macchina in base al livello di abbonamento dell'utente e alla durata della fascia oraria scelta. L'utente può prenotare tutti gli slot che desidera. Un utente non abbonato ma allenato può prenotare le ore macchina senza abbonamento.*
 
 Se l'amministratore ha effettuato la configurazione appropriata in precedenza, è possibile che l'utente non possa prenotare uno slot, se ha già un'altra prenotazione per lo stesso slot (ad esempio da un'altra macchina).
@@ -124,7 +124,7 @@ Senza alcuna formazione preliminare, un utente può prenotare una o più ore di 
 
 Il processo di prenotazione è identico a quello delle macchine, tranne per il fatto che più utenti possono potenzialmente riservare lo stesso spazio allo stesso tempo.
 
-![](./9.jpg)
+![](./images/9.jpg)
 *Figura 9 - L'utente prenota due ore di studio video. Il sistema calcola il prezzo di ogni ora in base al livello di abbonamento e al gruppo dell'utente. L'utente può prenotare tutti gli slot che desidera.*
 
 ### Nota sulla possibilità di spostare/cancellare le prenotazioni
@@ -135,7 +135,7 @@ A seconda delle impostazioni di Fab Manager, un utente può o meno essere in gra
 
 Se lo spostamento è consentito `(vedere Personalizzazione > Prenotazioni)`, l'utente seleziona una fascia oraria già prenotata e la posiziona su una nuova fascia oraria.
 
-![](./10.jpg)
+![](./images/10.jpg)
 *Figura 10 - Processo di spostamento di una prenotazione da parte di un utente*
 
 L'utente convalida la modifica dello slot per renderla effettiva.
@@ -146,7 +146,7 @@ L'utente riceve una notifica di modifica dello slot di prenotazione. Anche gli a
 
 Se la cancellazione è consentita `(vedere Personalizzazione > Prenotazioni)`, l'utente seleziona uno slot che ha già prenotato. Viene visualizzata la seguente finestra:
 
-![](./11.jpg)
+![](./images/11.jpg)
 *Figura 11 - Finestra per spostare o cancellare una prenotazione*
 
 L'utente clicca su "cancella questa prenotazione" e la cancellazione diventa effettiva.
@@ -160,17 +160,17 @@ Per accedere a questa funzione, l'utente deve aver effettuato il login e cliccar
 
 Quindi accede a questa interfaccia:
 
-![](./12.jpg)
+![](./images/12.jpg)
 *Figura 12 - Modulo per la creazione della documentazione di progetto*
 
 La parte inferiore del modulo consente di dettagliare il progetto in più fasi:
 
-![](./13.jpg)
+![](./images/13.jpg)
 *Figura 13 - Nuova fase della documentazione di progetto*
 
 Possono anche scegliere di pubblicare direttamente il loro progetto o di salvarlo come bozza. In quest'ultimo caso potranno accedere al progetto in un secondo momento tramite la loro dashboard e arricchirlo nel tempo. Un progetto "in bozza" è visibile solo all'utente e non agli altri membri del sito.
 
-![](./14.jpg)
+![](./images/14.jpg)
 *Figura 14 - Panoramica dei progetti dell'utente*
 
 L'utente può anche scegliere di aprire una collaborazione intorno al suo progetto, invitando altri utenti del Fab Lab a unirsi al suo progetto. In questo caso, l'utente invitato riceve un messaggio di posta elettronica che gli chiede di confermare se desidera unirsi al progetto. Se l'utente conferma la propria collaborazione facendo clic sul link ricevuto via e-mail, acquisisce il diritto di modificare il progetto.
@@ -184,14 +184,14 @@ Per accedere a questa funzione, è necessario effettuare il login e cliccare sul
 
 Quindi accede alla seguente interfaccia:
 
-![](./15.jpg)
+![](./images/15.jpg)
 *Figura 15 - Calendario pubblico dei prossimi eventi nel Fab Lab*
 
 Da questa pagina possono consultare tutti gli eventi in programma al Fab Lab e le loro informazioni. Nella parte superiore della pagina, un sistema di filtri permette di visualizzare solo alcuni eventi. I filtri disponibili dipendono dalla configurazione effettuata da un amministratore `(vedere Gestione degli eventi)`.
 
 Cliccando su un evento, l'utente verrà automaticamente reindirizzato alla descrizione dell'evento stesso:
 
-![](./16.jpg)
+![](./images/16.jpg)
 *Figura 16 - Pagina di presentazione dell'evento, che consente di effettuare le prenotazioni*
 
 La parte inferiore offre una descrizione dell'evento e informazioni aggiuntive. La possibilità di condividere questa pagina descrittiva sui social network è offerta anche attraverso i pulsanti ad ad hoc. Orari, date e prezzi sono indicati nella parte destra della schermata "Informazioni e prenotazioni".
@@ -204,14 +204,14 @@ Il team del Fab Lab può configurare diverse categorie di tariffe `(vedere Gesti
 
 **Nota:** una volta effettuata la prenotazione, l'utente riceve anche un'e-mail contenente un riepilogo dell'ordine e la fattura in formato PDF.
 
-![](./17.jpg)
+![](./images/17.jpg)
 *Figura 17 - Prenotazione di posti per un evento da parte di un utente*
 
 ### Fatture
 
 Accedendo alla propria dashboard e cliccando sulla scheda "fatture", gli utenti possono accedere a tutte le fatture degli acquisti o dei rimborsi precedenti ("Note di credito") e scaricarle in formato PDF.
 
-![](./18.jpg)
+![](./images/18.jpg)
 *Figura 18 - Elenco delle fatture e delle note di credito dell'utente*
 
 ### Portafoglio
@@ -220,14 +220,14 @@ La scheda "portafoglio" della dashboard consente all'utente di consultare il sal
 
 Solo un amministratore o un manager può accreditare il portafoglio di un utente `(vedere Accredito del portafoglio virtuale)`.
 
-![](./19.jpg)
+![](./images/19.jpg)
 *Figura 19 - Portafoglio virtuale dell'utente*
 
 ### Consulatare l'agenda del Fab Lab
 
 Facendo clic su "Agenda" nel menu principale dell'applicazione, l'utente può consultare a colpo d'occhio tutti gli slot e gli eventi del Fab Lab per un determinato periodo.
 
-![](./20.jpg)
+![](./images/20.jpg)
 *Figura 20 - Calendario pubblico del Fab Lab*
 
 Il lato destro consente di filtrare ciò che si desidera visualizzare nel calendario. Sopra il calendario, i pulsanti consentono di passare alla visualizzazione del mese, della settimana o del giorno o di spostarsi tra le date.
@@ -246,7 +246,7 @@ Fab-manager permette di consultare tutti i progetti pubblicati sulla piattaforma
 
 In questo caso, non è possibile filtrare i progetti in base ai criteri specificati sopra, ma è possibile eseguire una ricerca a testo libero utilizzando una potente analisi del testo (ElasticSearch).
 
-![](./21.jpg)
+![](./images/21.jpg)
 *Figura 21 - Ricerca della parola chiave "aereo" in tutti i progetti OpenLab*
 
 Facendo clic su un progetto si viene reindirizzati alla pagina che mostra i dettagli della sua documentazione. Se il progetto proviene da un'altra istanza (OpenLab), si verrà reindirizzati in modo trasparente a tale istanza.
@@ -260,7 +260,7 @@ Questa finestra di dialogo non bloccante sarà visualizzata fino a quando l'uten
 
 Quando l'utente ha fatto clic su "accetta" o "rifiuta", la finestra di dialogo scompare, ma è possibile farla riapparire accedendo alla dashboard, sezione "le mie impostazioni".
 
-![](./22.jpg)
+![](./images/22.jpg)
 *Figura 22 - Modifica delle scelte relative ai cookie*
 
 Se l'amministratore ha pubblicato un'informativa sulla privacy per la piattaforma, facendo clic su "Per saperne di più" nella finestra di dialogo dei cookie si viene reindirizzati ad essa. In alternativa, l'utente verrà reindirizzato a un sito web generico che spiega cosa sono i cookie e qual è il loro impatto sulla privacy.

@@ -6,7 +6,7 @@ Il modulo dispone di un centro di notifiche. Accedendo (come utente o amministra
 
 Il sistema visualizza lo storico delle notifiche ricevute. È possibile tornare indietro nel tempo fino a alla messa in produzione del sistema:
 
-![](./73.jpg)
+![](./images/73.jpg)
 *Figura 73 - Vista del centro notifiche, dal punto di vista dell'amministratore*
 
 ### Notifiche inviate via e-mail
