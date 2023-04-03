@@ -4,9 +4,10 @@ docs_dir: docs/
 theme:
     name: readthedocs
     highlightjs: true
-nav:
-    - 'Fab Manager ':
-        - 'Manuale': './index.md'
+# nav:
+#     - 'Fab Manager ':
+#         - 'Manuale': './index.md'
+#
 plugins:
   - search
   - mkdocstrings:
