@@ -1297,7 +1297,7 @@ Questa interfaccia consente agli amministratori di rimuovere gli avvisi dal sist
 
 ### Gestione degli eventi
 
-![](./98 .jpg)
+![](./98.jpg)
 *Figura 98 - Gestione degli eventi*
 
 Dalla scheda "Eventi" dell'amministratore o del gestore, è possibile consultare l'elenco degli eventi esistenti, modificarli e visualizzare i dettagli delle prenotazioni collegate a ciascuno di essi.
