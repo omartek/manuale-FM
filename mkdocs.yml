@@ -6,7 +6,3 @@ theme:
 nav:
     - 'Fab Manager ':
         - 'Manuale': './index.md'
-plugins:
-    - search
-    - mkpdfs
-
