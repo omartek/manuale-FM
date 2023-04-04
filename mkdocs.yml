@@ -1,10 +1,11 @@
 site_name: Fab Manager
 site_url: https://github.com/omartek/manuale-FM
+repo_url: https://github.com/omartek/manuale-FM
+
 docs_dir: gitbook/
 theme:
     name: readthedocs
     highlightjs: true
-    repo_url: https://github.com/omartek/manuale-FM/tree/main/gitbook
     features:
       - content.action.edit #https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
 
