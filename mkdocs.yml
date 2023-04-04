@@ -4,6 +4,9 @@ docs_dir: gitbook/
 theme:
     name: readthedocs
     highlightjs: true
+    features:
+      - content.action.edit #https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
+
 nav:
     - 'GUIDA ALLA SOLUZIONE FAB-MANAGER':
         - 'Changelogs': './index.md'
