@@ -1,7 +1,7 @@
 site_name: Fab Manager
 site_url: https://github.com/omartek/manuale-FM
 repo_url: https://github.com/omartek/manuale-FM/
-edit_uri: main/gitbook/
+edit_uri: edit/main/gitbook/
 
 docs_dir: gitbook/
 theme:
