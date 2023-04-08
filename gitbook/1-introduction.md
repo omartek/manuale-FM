@@ -23,7 +23,7 @@ La soluzione Fab Manager offre anche una modalità manager che permette di gesti
 * Offrire prenotazioni agli utenti
 * Creare un account per un utente
 
-Per il team che lavora nel Fab Lab, la modalità manager della soluzione consente anche :
+Per il team che lavora nel Fab Lab, la modalità manager della soluzione consente anche:
 
 * Gestire il calendario della macchina
 * Gestire il calendario della formazione
